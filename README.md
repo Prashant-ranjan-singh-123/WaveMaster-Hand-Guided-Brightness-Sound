@@ -35,9 +35,7 @@ The provided Python code is for a graphical user interface (GUI) application cre
 
 ## 🙋 Team Members :-
 - **Prashant Ranjan Singh** : EN20CS301308.
-  
 - **Radhika Patidar** : EN20CS301328.
-  
 - **Punit Kumar Mishra** : EN20CS301326.
 
 ## 🙋 Support

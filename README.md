@@ -12,7 +12,7 @@ https://www.python.org/downloads/release/python-3105/
 ```
 * Clone this repo
 ```
-git clone <url>
+git clone https://github.com/Prashant-ranjan-singh-123/WaveMaster-Hand-Guided-Brightness-Sound.git
 ```
 * Install virtual environment
 ```

@@ -33,6 +33,10 @@ python volBrtnessControl.py
 # Explanation 
 The provided Python code is for a graphical user interface (GUI) application created using the tkinter library. This application offers users the ability to control both system volume and screen brightness using hand gestures detected through a webcam. It is primarily intended for Windows operating systems.
 
+## 🙋 Team Members :-
+**Prashant Ranjan Singh** : EN20CS301308
+**Radhika Patidar** : EN20CS301328
+**Punit Kumar Mishra** : EN20CS301326
 
 ## 🙋 Support
 

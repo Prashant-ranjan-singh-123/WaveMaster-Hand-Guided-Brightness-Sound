@@ -6,7 +6,7 @@ https://github.com/Prashant-ranjan-singh-123/WaveMaster-Hand-Guided-Brightness-S
 
 ## How to run this script
 
-* Download python 3.10.5 using this link and check add to path in installer.
+* Download python 3.10.5 (Not compatible with higher versions) using this link and check add to path in installer.
 ```
 https://www.python.org/downloads/release/python-3105/
 ```

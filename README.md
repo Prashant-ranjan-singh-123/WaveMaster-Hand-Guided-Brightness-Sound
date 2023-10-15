@@ -1,5 +1,5 @@
 # WaveMaster: Hand-Guided Brightness & Sound
-This project aims to control the system volume and screen brightness using hand gestures. For detection of hand landmarks, mediapipe library is used.
+The Python program employs tkinter and libraries like mediapipe and pycaw to control Windows system volume and screen brightness via hand gestures captured by a webcam, offering an interactive user interface.
 
 ## DEMO
 https://user-images.githubusercontent.com/57738183/123324025-f8e9b600-d553-11eb-96bb-63f8b6259a23.mp4

@@ -2,7 +2,7 @@
 The Python program employs tkinter and libraries like mediapipe and pycaw to control Windows system volume and screen brightness via hand gestures captured by a webcam, offering an interactive user interface.
 
 ## DEMO
-https://user-images.githubusercontent.com/57738183/123324025-f8e9b600-d553-11eb-96bb-63f8b6259a23.mp4
+https://github.com/Prashant-ranjan-singh-123/WaveMaster-Hand-Guided-Brightness-Sound/assets/85955003/1c663e1a-2fc4-4de6-b15d-667b96df4389.mp4
 
 ## How to run this script
 

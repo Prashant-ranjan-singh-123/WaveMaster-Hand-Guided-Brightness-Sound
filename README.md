@@ -6,6 +6,10 @@ https://user-images.githubusercontent.com/57738183/123324025-f8e9b600-d553-11eb-
 
 ## How to run this script
 
+* Download python 3.10.5 using this link and check add to path in installer.
+```
+https://www.python.org/downloads/release/python-3105/
+```
 * Clone this repo
 ```
 git clone <url>
